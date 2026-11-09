@@ -1,0 +1,11 @@
+{
+  "name": "strapi-login-sqli-lab",
+  "version": "1.0.0",
+  "description": "Laboratorio de entrenamiento: mockup del login admin de Strapi con SQLi intencional",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "express": "^4.19.2"
+  }
+}
